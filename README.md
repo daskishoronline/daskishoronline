@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kishor
 
+BDS student at RIMS Imphal.
+
+Interested in:
+- Medical science
+- Radiology and diagnostic technology
+- Scientific thinking and evidence-based medicine
+- Technology in healthcare
+
+Currently learning:
+- Dentistry
+- Pharmacology Pathology Microbiology
+- Scientific research methods
+
+Beliefs:
+Health. Knowledge. Curiosity.
 <!--
 **daskishoronline/daskishoronline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
